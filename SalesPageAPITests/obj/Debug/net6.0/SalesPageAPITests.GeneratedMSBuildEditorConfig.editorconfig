@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SalesPageAPITests
-build_property.ProjectDir = c:\Users\Inteli\Documents\yago-pessoal\projetos pessoais\testes-tecnicos\desafio-programacao-fullstack-1.2.0\api\SalesPageAPI\SalesPageAPITests\
+build_property.ProjectDir = c:\Users\Inteli\Documents\yago-pessoal\projetos pessoais\c#&.Net\SalesPageAPI\SalesPageAPI\SalesPageAPITests\
