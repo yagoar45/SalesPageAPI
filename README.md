@@ -12,7 +12,6 @@ A estrutura de pastas do projeto SalesPageAPI é a seguinte:
 - `Data/`: Contém as classes de acesso a dados, como repositórios e contexto do banco de dados.
 - `Models/`: Contém as classes de modelos de dados da aplicação.
 - `Services/`: Contém os serviços da aplicação, que encapsulam a lógica de negócios.
-- `Utilities/`: Contém classes utilitárias, como helpers e constantes.
 - `Migrations/`: Contém as migrações do banco de dados.
 
 ## Tecnologias Utilizadas
