@@ -73,5 +73,5 @@ A API estará disponível em https://localhost:7215/swagger/index.html.
 
 ## Documentação da API
 
-A documentação da API está disponível no link acima. Você pode utilizar a interface do swagger para interagir melhor e entender cada endpoint da aplicação
+A documentação da API está disponível no link acima. Você pode utilizar a interface do swagger para interagir melhor e entender cada endpoint da aplicação.
 
