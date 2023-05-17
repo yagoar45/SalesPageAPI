@@ -47,3 +47,16 @@ git clone https://github.com/yagoar45/SalesPageAPI.git
 ```bash
 cd SalesPageAPI
 ```
+
+3. Compile e execute o projeto.
+
+```code
+dotnet Watch run 
+```
+
+A API estará disponível em https://localhost:7215/swagger/index.html.
+
+## Documentação da API
+
+A documentação da API está disponível no link acima. Você pode utilizar a interface do swagger para interagir melhor e entender cada endpoint da aplicação
+
