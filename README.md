@@ -66,7 +66,7 @@ cd SalesPageAPI
 3. Compile e execute o projeto.
 
 ```code
-dotnet Watch run 
+dotnet watch run 
 ```
 
 A API estará disponível em https://localhost:7215/swagger/index.html.
