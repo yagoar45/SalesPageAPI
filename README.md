@@ -4,15 +4,30 @@
 
 SalesPageAPI é um projeto de API desenvolvido em C# utilizando o framework ASP.NET Core. A API tem como objetivo facilitar a integração de sistemas de vendas com a plataforma SalesPage. Ela fornece recursos para autenticação de usuários, gerenciamento de clientes, produtos, pedidos de venda e emissão de notas fiscais.
 
-## Estrutura de Pastas
+## Estrutura de Pastas da aplicação SalesPageAPI
 
 A estrutura de pastas do projeto SalesPageAPI é a seguinte:
 
+- `Authorization`: Contém a lógica para autorizar o acesso de algum usuário autenticado.
 - `Controllers/`: Contém os controladores da API, responsáveis por definir os endpoints e as ações a serem executadas.
 - `Data/`: Contém as classes de acesso a dados, como repositórios e contexto do banco de dados.
+- `Interfaces/`: Contém as interfaces que aumentam a coesão das classes da aplicação.
+- `Profiles`: Contém o mapeamento da camada de DTO para os usuários.
 - `Models/`: Contém as classes de modelos de dados da aplicação.
 - `Services/`: Contém os serviços da aplicação, que encapsulam a lógica de negócios.
 - `Migrations/`: Contém as migrações do banco de dados.
+- `Outras Pastas`: Contém as configurações do .NET para rodar a aplicação conforme o especificado.
+
+## Estrutura de Pastas da aplicação de Testes do projeto SalesPageAPI
+
+A estrutura de pastas do projeto de testes da SalesPageAPI é a seguinte:
+
+Metodologia de teste: AAA e Given-When-Then.
+
+- `SalesPageControllerTests`: Contém os testes da cammada responsável pelo envio e recebimento de dados.
+- `UserControllerTests/`: Contém os testes da camada de usuários. 
+- `Outras Pastas`: Contém as configurações do .NET para rodar os testes por meio do framework XUnit.
+
 
 ## Tecnologias Utilizadas
 
